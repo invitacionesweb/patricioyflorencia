@@ -43,7 +43,7 @@ body {
 }
 .boton:hover {
     color: var(--color-1);
-    background-color: var(--color-0);
+    background-color: transparent;
     border: 1px solid var(--color-1);
     padding: 10px 30PX;
     text-align: center;
